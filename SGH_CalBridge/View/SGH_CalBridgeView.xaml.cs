@@ -18,9 +18,9 @@ namespace SGH_CalBridge
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class SGH_CalBridgeView : Window
     {
-        public MainWindow()
+        public SGH_CalBridgeView()
         {
             InitializeComponent();
         }
